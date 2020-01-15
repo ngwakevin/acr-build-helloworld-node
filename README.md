@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/Ayencho/8df131e6-675f-4a2b-ac38-29232958565a/bf050149-9686-4401-852e-697a78d529c6/_apis/work/boardbadge/7c6034d0-5894-44dc-b4b7-24cfc226d089)](https://dev.azure.com/Ayencho/8df131e6-675f-4a2b-ac38-29232958565a/_boards/board/t/bf050149-9686-4401-852e-697a78d529c6/Microsoft.RequirementCategory)
 # ACR Build Hello World
 
 This Node.js application is for use in demonstrating scenarios for Azure Container Registry Tasks. [ACR Tasks](https://docs.microsoft.com/azure/container-registry/container-registry-tasks-overview) is a suite of features within [Azure Container Registry](https://azure.microsoft.com/services/container-registry/) for performing Docker container builds on [Azure](https://azure.com), as well as automated OS and framework patching for Docker containers.
